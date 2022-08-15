@@ -1,5 +1,9 @@
 # Phase 3 Project Guidelines
 
+### Phase 3 Final Project FrontEnd Github Link:
+https://github.com/dtngk/phase-3-final-project-frontend.git
+
+
 ## Learning Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
